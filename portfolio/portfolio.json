@@ -31,8 +31,9 @@
 			"@type": "Painting"
 		},
 		{
-			"name": "Oleg Ditrich",
-			"@type": "Painting"
+			"name": "Papaver Seed Sculpture Design",
+			"@type": "Painting",
+			"image": "http://data.mavo.io/portfolio/images/papaver_seed.png"
 		}
 	]
 }
